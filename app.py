@@ -21,9 +21,9 @@ st.sidebar.title("👨‍💻 ข้อมูลผู้พัฒนา")
 # ใส่ URL รูปภาพของคุณ หรือใช้ st.image("ชื่อไฟล์รูป.jpg") ถ้ามีไฟล์รูปในโฟลเดอร์เดียวกัน
 st.sidebar.image("https://scontent.fbkk31-2.fna.fbcdn.net/v/t39.30808-6/397864360_2110730222603303_7087100876165517819_n.jpg?stp=dst-jpg_tt6&cstp=mx959x960&ctp=s959x960&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeE6k_lewxt-HkAVJvc_EYEyJznkhh0orF4nOeSGHSisXk6IGg4fpAHXOiU0ozERJUlZaUKvuZWJFTr74mY7a4y7&_nc_ohc=LroG0wO-Jl0Q7kNvwH4VSCK&_nc_oc=AdqMYRVra-o0aQKil4i4QNWh2x2BlzKLbkromMvqnb4gG3MA-yC8Jly5vJ4WwQ1hDGoSI6zBAgic_Fzbt-U-kjLY&_nc_zt=23&_nc_ht=scontent.fbkk31-2.fna&_nc_gid=jQF7Ok1fF6BSrtFFgH9-qQ&_nc_ss=7b2a8&oh=00_AQHMu0fPQcDEMYDROMresmDVMKsCzjRnWy6QAKX7TPt71A&oe=6A886C95", width=150) 
 st.sidebar.markdown("""
-**รหัสประจำตัว:** 664245016
-**ชื่อ-นามสกุล:** นาย กรภัทร์ ถิ่นผาแดง
-**หมู่เรียน:** 66/43
+**รหัสประจำตัว:** 664245016\n
+**ชื่อ-นามสกุล:** นาย กรภัทร์ ถิ่นผาแดง\n
+**หมู่เรียน:** 66/43\n
 """)
 st.sidebar.divider()
 st.sidebar.info("โปรเจ็กต์นี้เป็นส่วนหนึ่งของรายวิชา Machine Learning (30 คะแนน)")
